@@ -4,8 +4,8 @@
 // @icon            http://en.wikipedia.org/favicon.ico
 // @version         2020.04.01 (2.0)
 // @namespace       wikiflagicons
-// @author          https://github.com/DavideViolante/
-// @downloadURL     https://github.com/DavideViolante/Wikipedia-Flag-Icons/raw/master/Userscript/wikipediaFlags.user.js
+// @author          https://github.com/V-Toll/
+// @downloadURL     https://github.com/V-Toll/Wikipedia-Flag-Icons/tree/master/Userscript/wikipediaFlags.user.js
 // @grant           none
 // @include         http*://*.wikipedia.org/*
 // @include         http*://*.wikimedia.org/*
@@ -19,7 +19,7 @@
 // @include         http*://*.wikivoyage.org/*
 // ==/UserScript==
 
-// Flag icons by http://www.famfamfam.com/lab/icons/flags/
+// Flag icons by Wikipedia
 
 // Customize the following 2 parameters
 const primaryLang = 'de';
