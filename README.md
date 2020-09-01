@@ -28,7 +28,7 @@ Wikipedia Main Page (EN) using the script:
 
 ##### Userscript (Firefox, Opera, etc...)
 1. Install an extension that allows you to install userscripts (eg: Greasemonkey, Tampermonkey, Violentmonkey, etc)
-2. Download the userscript from [here](https://github.com/DavideViolante/Wikipedia-Flag-Icons/raw/master/Userscript/wikipediaFlagIcons.user.js);
+2. Download the userscript from [here](https://github.com/V-Toll/Wikipedia-Flag-Icons/tree/master/Userscript/wikipediaFlagIcons.user.js);
 3. Drag and drop `wikipediaFlags.user.js` into your browser to install it.
  
 ### Issues
