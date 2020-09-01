@@ -25,7 +25,7 @@
 const primaryLang = 'de';
 const secondaryLang = 'en';
 
-const flagUrl = 'https://github.com/V-Toll/Wikipedia-Flag-Icons/tree/master/Chrome%20Extension/WikipediaFlagIcons/flags';
+const flagUrl = 'https://github.com/V-Toll/Wikipedia-Flag-Icons/tree/master/Chrome%20Extension/WikipediaFlagIcons/flags/';
 
 function getFirstElemByClassName(className) {
   return document.getElementsByClassName(className)[0];
